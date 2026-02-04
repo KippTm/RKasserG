@@ -9,5 +9,8 @@ Lille program til hjælp med bilag
 #### Støttede typer
     Drinx: flag d
     Carlsberg: flag c
+    Carlsberg litertilskud: cl
+    Nemlig: flag nem
+
 
 
